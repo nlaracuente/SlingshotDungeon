@@ -1,7 +1,7 @@
 ![alt text][gameplay]
 
 # SlingshotDungeon
-Is our entry for the [2018 GameMaker's ToolKit Game Jam](https://itch.io/jam/gmtk-2018) where the theme was about "GENRE without MECHANIC."\
+Is our entry for the <a href="https://itch.io/jam/gmtk-2018" target="_blank"> 2018 GameMaker's ToolKit Game Jam</a> where the theme was about "GENRE without MECHANIC."\
 To protect the assets created by my fellow team members, I have only included the scripts used to create this game.
 
 ## Description
